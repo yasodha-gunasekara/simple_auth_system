@@ -1,0 +1,11 @@
+E:\c shspe project\FinalTwo\FinalTwo\bin\Debug\FinalTwo.exe.config
+E:\c shspe project\FinalTwo\FinalTwo\bin\Debug\FinalTwo.exe
+E:\c shspe project\FinalTwo\FinalTwo\bin\Debug\FinalTwo.pdb
+E:\c shspe project\FinalTwo\FinalTwo\obj\Debug\FinalTwo.csprojAssemblyReference.cache
+E:\c shspe project\FinalTwo\FinalTwo\obj\Debug\FinalTwo.frm_log.resources
+E:\c shspe project\FinalTwo\FinalTwo\obj\Debug\FinalTwo.frm_Home.resources
+E:\c shspe project\FinalTwo\FinalTwo\obj\Debug\FinalTwo.Properties.Resources.resources
+E:\c shspe project\FinalTwo\FinalTwo\obj\Debug\FinalTwo.csproj.GenerateResource.cache
+E:\c shspe project\FinalTwo\FinalTwo\obj\Debug\FinalTwo.csproj.CoreCompileInputs.cache
+E:\c shspe project\FinalTwo\FinalTwo\obj\Debug\FinalTwo.exe
+E:\c shspe project\FinalTwo\FinalTwo\obj\Debug\FinalTwo.pdb
